@@ -1,3 +1,0 @@
-testing-adam
-# aws
-traning
